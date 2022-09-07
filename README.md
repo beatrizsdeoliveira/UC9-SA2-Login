@@ -1,2 +1,2 @@
 # UC9-SA2-Login
-Disponível em: https://beatrizsdeoliveira.github.io/UC9-SA2-Login/
+Projeto da UC9 - Login do site E-Players
